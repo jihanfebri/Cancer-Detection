@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Your result</string>
+    <string name="history">Result</string>
+    <string name="save">Save</string>
+    <string name="article">Health Articles</string>
+    <string name="greeting">Lets Check Your Skin!</string>
+    <string name="delete">Delete</string>
+    <string name="failed_to_pick_image">Oops! Failed to pick image. Please try again</string>
+    <string name="no_result">We couldnt find any matches. Please try again</string>
+    <string name="image_classifier_failed">Oops! We couldnt start the image classifier. Take a look at the error logs to find out why.</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ornare arcu odio ut sem nulla. Facilisis gravida neque convallis a. Massa vitae tortor condimentum lacinia quis vel eros donec ac. Quam quisque id diam vel quam elementum pulvinar etiam.</string>
+</resources>
